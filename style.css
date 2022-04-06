@@ -1,0 +1,23 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:rgb(37, 126, 101);
+    color: white;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+h2{
+    font-size: 20px;
+    text-indent: 50px;
+}
+p{
+    text-indent: 50px;
+    color: black;
+    font-size: 15px;
+}
+li{
+    font-size: 15px;
+    color: black;
+    text-indent: 25px;
+}
